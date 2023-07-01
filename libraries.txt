@@ -1,0 +1,6 @@
+@headlessui/react                   */ for combobox and dropdown
+coudinary                             */  for image upload
+jsonwebtoken @types/jsonwebtoken       */  for auth
+graphql-request
+next-auth
+@grafbase/sdk --save-dev                 */   for fast development
